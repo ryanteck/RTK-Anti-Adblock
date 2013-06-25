@@ -1,0 +1,28 @@
+ This file is part of RTK Anti Adblock.
+
+    RTK Anti Adblock is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    RTK Anti Adblock is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with RTK Anti Adblock.  If not, see <http://www.gnu.org/licenses/>.
+	
+	===Usage===
+	This is a basic template which I use on my site, You can remove the visible credit but it is really good if you can credit me.
+	
+	Made By Ryan Walmsley, @Ryanteck, http://ryanteck.org.uk
+	
+	===Template Start===
+	
+<h4>Welcome To <<Website Name Here>>! You have been brought here from where you have been detected using Adblock or a similar plugin.<br/>
+This is because to run this site and the others that my servers host it costs money! How do I get money to pay for the servers? Adverts!<br/><br/>
+This page itself uses little bandwidth and resources  and is your alternative for using Adblock. <br/> <br/>To access the site please Don't run AdBlock on *.ryanteck.org.uk/* , You will only see one advert on a page, and it's not in the way of the content!
+<br/><br/>Thanks - <<Owner>> 
+</h4>
+<h5>RTK Anti Adblock made by Ryanteck, if you think this is a mistake email me on <<Email>></h5>
