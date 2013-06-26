@@ -19,6 +19,8 @@
 	Then copy the code used to display the advert, for example I use an inframe to display mine so I copied the iframe code
 	The script will then detect once the page has loaded if the content has been modified then Bam! Your sent to adblockalert.php
 	
+	Include the javascript in all web pages that you wish to detect, DO NOT put it in the adblockalert.html
+	
 	Made By Ryan Walmsley, @Ryanteck, http://ryanteck.org.uk
 */
 
