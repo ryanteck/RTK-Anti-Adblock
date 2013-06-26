@@ -16,6 +16,8 @@ local.properties
 .settings/
 .loadpath
 dev.html
+.dev/
+dev/
 
 # External tool builders
 .externalToolBuilders/
